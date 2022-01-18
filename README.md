@@ -83,6 +83,7 @@ Practical exercises in testing and documenting the Allegro login page.
 
 **TESTER / UX DESIGNER**
 , **Poznan University of Technology**
+
 IT project, web application.
 
 Mar 2020 - May 2020
@@ -96,12 +97,12 @@ Mar 2020 - May 2020
 
 Agu 2019 - Oct 2019
 
-**COURSES
-* Git from scratch for everyone - Udemy
-* Absolute Beginner Postman Training - Udemy
-* Python for beginners - Udemy
-* Learning Jira Software - LinkedIn
-* Software Testing Fundattions: Bug Writing and Management - LinkedIn
+## COURSES
+* *Git from scratch for everyone.* - Udemy
+* *Absolute Beginner Postman Training.* - Udemy
+* *Python for beginners.* - Udemy
+* *Learning Jira Software.*- LinkedIn
+* *Software Testing Fundattions: Bug Writing and Management.* - LinkedIn
  
 ## BOOKS
 * *Podróż przez świat testowania.* Karolina Pawłowska, Natalia Pawlak
