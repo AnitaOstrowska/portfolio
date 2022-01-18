@@ -55,7 +55,6 @@ Faculty of Computer Science and Telecommunications, Postgraduate Studies.
   * Katalon Recorder
   * PyCharm
   * DevTools
-  * Markdown
 * Understanding of the testing purpose in the software lifecycle.
 * Analyzing technical specifications.
 * Experience with test documentation e.g. test cases, test execution records. 
