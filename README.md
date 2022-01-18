@@ -81,7 +81,7 @@ Dec 2021
 
 Practical exercises in testing and documenting the Allegro login page. 
 
-* https://bit.ly/3G9cAWw
+* 
 
 **TESTER / UX DESIGNER**
 , **Poznan University of Technology**
