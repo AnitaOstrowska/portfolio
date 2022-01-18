@@ -9,7 +9,9 @@
 
 ## ABOUT ME
 I'm becoming a tester with great attention to detail and a good understanding of the STLC process. Perceptiveness and inquisitiveness, so important in a tester's job, have always been part of my work.
+
 I enjoy new challenges because I can use them in many different ways. They allow me to expand my knowledge, shape my skills and use my full potential. During testing I always assume that there is something that has not been found so far.
+
 In the near future I would like to become an automated tester.
 
 ## EXPERIENCE
@@ -98,20 +100,20 @@ Mar 2020 - May 2020
 Agu 2019 - Oct 2019
 
 ## COURSES
-* *Git from scratch for everyone.* - Udemy
-* *Absolute Beginner Postman Training.* - Udemy
-* *Python for beginners.* - Udemy
-* *Learning Jira Software.*- LinkedIn
-* *Software Testing Fundattions: Bug Writing and Management.* - LinkedIn
+* *Git from scratch for everyone* - Udemy
+* *Absolute Beginner Postman Training* - Udemy
+* *Python for beginners* - Udemy
+* *Learning Jira Software*- LinkedIn
+* *Software Testing Fundattions: Bug Writing and Management* - LinkedIn
  
 ## BOOKS
-* *Podróż przez świat testowania.* Karolina Pawłowska, Natalia Pawlak
-* *Pasja testowania.* Krzysztof Jadczyk
-* *Testowanie oprogramowania.* Rafał Pawlak
-* *Testowanie i jakość oprogramowania.* Adam Roman
-* *Zawód tester.* Smilgin Radosław
-* *Pierwsze kroki z SQL.* Thomas Nield
-* *Certyfikowany tester ISTQB poziom podstawowy.* Adam Roman, Lucjan Stapp
+* *Podróż przez świat testowania* Karolina Pawłowska, Natalia Pawlak
+* *Pasja testowania* Krzysztof Jadczyk
+* *Testowanie oprogramowania* Rafał Pawlak
+* *Testowanie i jakość oprogramowania* Adam Roman
+* *Zawód tester* Smilgin Radosław
+* *Pierwsze kroki z SQL* Thomas Nield
+* *Certyfikowany tester ISTQB poziom podstawowy* Adam Roman, Lucjan Stapp
 
 ## LANGUAGES
 * Polish - Native
