@@ -5,7 +5,7 @@
 **CONTACT**
 - 698 425 796
 - ostrowskanita@gmail.com
-- linkedin.com/in/anita-ostrowska
+- www.linkedin.com/in/anita-ostrowska
 
 ## ABOUT ME
 I'm becoming a tester with great attention to detail and a good understanding of the STLC process. Perceptiveness and inquisitiveness, so important in a tester's job, have always been part of my work.
