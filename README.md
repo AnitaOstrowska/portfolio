@@ -57,8 +57,9 @@ Faculty of Computer Science and Telecommunications, Postgraduate Studies.
   * PyCharm
   * DevTools
 * Understanding of the testing purpose in the software lifecycle.
-* Analyzing technical specifications.
-* Experience with test documentation e.g. test cases, test execution records. 
+* Knowledge of testing principles, techniques and processes.
+* Analyzing requirements and creating test strategies. 
+* Experience in creating test documentation: designing scenarios and test cases. 
 * Experience in integration, system and acceptance tests.
 * Experience in testing related to changes.
 * Issue Identification.
@@ -66,11 +67,11 @@ Faculty of Computer Science and Telecommunications, Postgraduate Studies.
 
 ## SOFT SKILLS
 
-* Reliability and systematic performance of entrusted tasks.
-* High interpersonal communication skills.
-* Detail - oriented. 
+* Attention to detail and commitment
+* Communication skills and openness.
+* Willingness to learn and develop
 * Friendly and positive attitude.
-* Desire to know the newest technologies.
+* Independent and pro-active attitude
 
 ## PROJECTS
 
