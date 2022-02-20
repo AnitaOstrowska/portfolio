@@ -80,7 +80,7 @@ Dec 2021
 
 Practical exercises in testing and documenting the Allegro login page. 
 
-* 
+* http://bityl.pl/hBSD0
 
 **TESTER / UX DESIGNER**
 , **Poznan University of Technology**
