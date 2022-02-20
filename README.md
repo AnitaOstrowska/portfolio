@@ -49,6 +49,7 @@ Faculty of Computer Science and Telecommunications, Postgraduate Studies.
   * Jira
   * Pencil
   * SQL
+  * MS Office
   * Git
   * Visula Studio Code
   * Postman
@@ -80,7 +81,7 @@ Dec 2021
 
 Practical exercises in testing and documenting the Allegro login page. 
 
-* http://bityl.pl/sjfqU
+* http://bityl.pl/OcEXI
 
 **TESTER / UX DESIGNER**
 , **Poznan University of Technology**
