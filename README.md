@@ -57,7 +57,7 @@ Faculty of Computer Science and Telecommunications, Postgraduate Studies.
   * PyCharm
   * DevTools
 * Understanding of the testing purpose in the software lifecycle.
-* Knowledge of testing principles, techniques and processes.
+* Knowledge of testing principles, techniques and processes; familiarity with ISTQB.
 * Analyzing requirements and creating test strategies. 
 * Experience in creating test documentation: designing scenarios and test cases. 
 * Experience in integration, system and acceptance tests.
@@ -81,8 +81,6 @@ Faculty of Computer Science and Telecommunications, Postgraduate Studies.
 Dec 2021
 
 Practical exercises in testing and documenting the Allegro login page. 
-
-* http://bityl.pl/OcEXI
 
 **TESTER / UX DESIGNER**
 , **Poznan University of Technology**
